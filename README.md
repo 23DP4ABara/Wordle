@@ -1,6 +1,6 @@
 # Wordle
 
-**Wordle** is a word guessing game with both terminal and graphical (GUI) interfaces. Your goal is to guess the hidden word within a limited number of attempts. Before the game starts, you can customize three settings: the number of guesses, the number of hints (tips), and the length of the word to guess. The game uses a dictionary text file to validate guesses.
+**Wordle** is a word guessing game, made using graphical (GUI) interfaces. Your goal is to guess the hidden word within a limited number of attempts. Before the game starts, you can customize three settings: the number of guesses, the number of hints (tips), and the length of the word to guess. The game uses a dictionary text file to validate guesses.
 
 ## How to Play
 
