@@ -18,7 +18,7 @@
 ## Requirements
 
 - Python 3.x
-- Tkinter (usually included with Python)
+- Tkinter (Included with Python)
 
 ## Dictionary
 
