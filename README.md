@@ -20,14 +20,6 @@
 - Python 3.x
 - Tkinter (usually included with Python)
 
-## Running the Game
-
-- **GUI version:**  
-  Run `Wordle.py`:
-  ```
-  python Wordle.py
-  ```
-
 ## Dictionary
 
 The game uses `words/words_alpha.txt` as its dictionary. You can replace this file with any word list you prefer.
